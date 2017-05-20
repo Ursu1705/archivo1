@@ -1,1 +1,1 @@
-document.write("holi boli");
+document.write("holo boli");
